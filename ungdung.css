@@ -1,0 +1,10 @@
+table {
+    width: 300px;
+    background-color: antiquewhite;
+    border-collapse: collapse;
+}
+
+#delete-product {
+    background-color: lightcoral;
+    color: white;
+}
